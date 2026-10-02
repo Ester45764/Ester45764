@@ -11,8 +11,8 @@ I am a third-year computer science student with an interest in programming, prob
     <img width="200" height="60" alt="Project Euler"
          src="https://github.com/user-attachments/assets/7d7a2ead-322c-467c-a390-151112d57cdf">
   </a>
-</p>
-## Programming Language
+  </p>
+## Programming Languages
 
 <!--
     <img width="200" height="60" alt="othmanemessaoud" src="https://github.com/user-attachments/assets/7d7a2ead-322c-467c-a390-151112d57cdf" />
