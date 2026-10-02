@@ -15,7 +15,7 @@ I am a third-year computer science student with an interest in programming, prob
   
 ## Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
