@@ -12,6 +12,7 @@ I am a third-year computer science student with an interest in programming, prob
          src="https://github.com/user-attachments/assets/7d7a2ead-322c-467c-a390-151112d57cdf">
   </a>
   </p>
+  
 ## Programming Languages
 
 <!--
