@@ -23,6 +23,7 @@ I am a third-year computer science student with an interest in programming, prob
 
 ## Certifications
 - **Algorithms — Stanford University** ([View Certificate](https://coursera.org/share/2bc8e8b9adcd1d268bb6d009c3c4e81d))
+- **HackerRank — Problem Solving (Basic)** ([View Certificate](https://www.hackerrank.com/certificates/f1b264457d28))
 <!--
     <img width="200" height="60" alt="othmanemessaoud" src="https://github.com/user-attachments/assets/7d7a2ead-322c-467c-a390-151112d57cdf" />
 
